@@ -3,7 +3,7 @@ class Student:
     def __init__(self, name):
         self.name = "none"
 
-    def avg(self, math, english):
+    def avg(self,math, english):
         print("math:", math, "english:", english, "avarage:", (math + english) / 2)
 
 

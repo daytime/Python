@@ -1,5 +1,5 @@
 def average(a, b, c):
-    ave = (a + b + c) / 3
+    ave= (a + b + c) / 3
     return ave
 
 

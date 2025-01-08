@@ -1,7 +1,7 @@
 num = 1
 print(num)
 
-a = ["sato","suzuki","takahashi"]
+a = ["sato", "suzuki", "takahashi"]
 print(a[1])
 
 x = 10
@@ -21,7 +21,7 @@ for i in range(5):
     print(i)
 
 for i in range(5):
-    print("i = ",i)
+    print("i = ", i)
     if i == 3:
         print(i)
         break

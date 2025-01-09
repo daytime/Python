@@ -1,9 +1,6 @@
 s1 = {1, 2, 3, "tuple"}
 s2 = list(s1)
-s3 = {"a:1", "b:2", "c:3", "d:tuple"}
 
-print(s3)
-print(type(s3))
 print(s1)
 print(type(s1))
 print(s2)

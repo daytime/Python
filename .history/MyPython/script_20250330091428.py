@@ -1,14 +1,14 @@
 print("こんにちは！")
-strawberry = 150
+strowberry = 150
 apple_price = 120
 print(type(apple_price))
 print(apple_price)
-print(apple_price + strawberry)
+print(apple_price + strowberry)
 
 apple_price = "120円"
 print(type(apple_price))
 print(apple_price)
-# print(apple_price + strawberry)
+# print(apple_price + strowberry)
 
 apple_price = 100
 name = "斎藤"
@@ -20,7 +20,5 @@ print("weight = ", type(weight))
 
 first_name = "斎藤"
 last_name = "太郎"
-honorific_name = "さん"
-print(first_name + last_name + honorific_name + "です")
-full_name = first_name + last_name + honorific_name
-print(full_name + "様")
+
+print(first_name + last_name)

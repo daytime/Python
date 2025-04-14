@@ -37,7 +37,6 @@ scores = [82, 74, 60]
 avg_score = sum(scores) / len(scores)
 print(avg_score)
 
-print("リストの練習")
 scores = {"数学": 82, "国語": 74, "英語": 60, "理科": 90, "社会": 85}
 science = scores["理科"]
 print("理科: " + str(science))
